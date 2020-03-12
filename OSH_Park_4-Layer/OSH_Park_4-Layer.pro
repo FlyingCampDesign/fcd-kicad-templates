@@ -1,4 +1,4 @@
-update=Thursday, March 12, 2020 at 08:53:02 AM
+update=Thursday, March 12, 2020 at 12:46:42 PM
 version=1
 last_client=kicad
 [general]
@@ -27,7 +27,7 @@ MinViaDiameter=0.4572
 MinViaDrill=0.254
 MinMicroViaDiameter=0.4572
 MinMicroViaDrill=0.254
-MinHoleToHole=0.127
+MinHoleToHole=0.254
 TrackWidth1=0.127
 ViaDiameter1=0.4572
 ViaDrill1=0.254
@@ -47,7 +47,7 @@ CopperTextThickness=0.3048
 CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.1524
-CourtyardLineWidth=0.0508
+CourtyardLineWidth=0.05
 OthersLineWidth=0.1524
 OthersTextSizeV=1.016
 OthersTextSizeH=1.016
