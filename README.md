@@ -12,7 +12,7 @@ Open the `Configure Paths` dialog from the `Preferences` menu and update the env
 | ----------------------- | ---------------------------- |
 | KICAD_USER_TEMPLATE_DIR | /path/to/fcd-kicad-templates |
 
-Make sure these changes are saved in the `kicad_common` user preferences file (you may need to restart KiCad).  You should see a new environment variable in the `[EnvironmentVariables]` section of the file:
+Make sure these changes are saved in the `kicad_common` user preferences file (you may need to restart KiCad for the changes to be saved).  You should see a new environment variable in the `[EnvironmentVariables]` section of the file:
 
 ```
 [EnvironmentVariables]
